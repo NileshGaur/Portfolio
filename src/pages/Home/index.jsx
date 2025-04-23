@@ -4,6 +4,8 @@ import HeroSection from "./HeroSection";
 import Profile from "./Profile";
 import Experience from "./Experiences";
 import Projects from "./Projects";
+import Courses from "./Courses";
+import Contact from "./Contact";
 
 function Home() {
   return (
@@ -14,6 +16,8 @@ function Home() {
         <Profile />
         <Experience />
         <Projects />
+        <Courses />
+        <Contact />
       </div>
     </div>
   );
