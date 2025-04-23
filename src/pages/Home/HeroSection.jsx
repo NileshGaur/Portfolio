@@ -21,9 +21,14 @@ function HeroSection() {
         of hands-on experience building modern web applications using React,
         Node.js, and more
       </p>
-      <button className="border border-tertiary py-3 rounded px-10 sm:px-5">
-        Let's Talk
-      </button>
+      <a
+        href="https://drive.google.com/file/d/1gqszBzAM3F5u1Rd3l97CKvnu361Z3cPn/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="border border-tertiary py-3 rounded px-10 sm:px-5 inline-block"
+      >
+        Download Resume <i class="ri-file-download-line text-xl ml-2"></i>
+      </a>
     </div>
   );
 }
