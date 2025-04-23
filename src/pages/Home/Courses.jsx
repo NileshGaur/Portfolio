@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import SectionHeader from "../../components/SectionTitle";
-import { courses } from "../../resources/Courses";
+import { courses } from "../../resources/courses";
 
 function Courses() {
   const [selectedItem, setSelectedItem] = useState(0);
