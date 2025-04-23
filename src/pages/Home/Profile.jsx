@@ -2,7 +2,7 @@ import React from "react";
 import SectionHeader from "../../components/SectionTitle";
 import Lottie from "lottie-react";
 
-import Aboutme from "../../assets/lottie-animations/aboutme.json";
+import Aboutme from "../../assets/lottie-animations/Aboutme.json";
 
 function About() {
   const skills = [
